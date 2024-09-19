@@ -1,4 +1,4 @@
-class DangerSwift < Formula
+class DangerSwiftMvideo < Formula
   desc "Write your Dangerfiles in Swift"
   homepage "https://github.com/danger/danger-swift"
   version "3.19.1"
